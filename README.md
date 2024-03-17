@@ -1,12 +1,14 @@
 iShop (Marketplace)
+
 Scurta Descriere
+
 Magazin de produse apple cu posibilitatea de a adauga/vinde/sterge produse
 
-Obiecte folosite (TODO)
-User/Client
-Produs
-Bon fiscal/Factura
-Securitate
+-Obiecte folosite (TODO)
+-User/Client
+-Produs
+-Bon fiscal/Factura
+-Securitate
 
 ### Important!
 Aveți voie cu cod generat de modele de limbaj la care nu ați contribuit semnificativ doar în folder-ul `generated`.
