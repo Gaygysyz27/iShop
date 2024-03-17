@@ -5,9 +5,13 @@ Scurta Descriere
 Magazin de produse apple cu posibilitatea de a adauga/vinde/sterge produse
 
 -Obiecte folosite (TODO)
+
 -User/Client
+
 -Produs
+
 -Bon fiscal/Factura
+
 -Securitate
 
 ### Important!
