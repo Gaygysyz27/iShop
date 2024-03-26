@@ -61,8 +61,20 @@ float calculateTotalCost(int quantity, float price, float taxRate, float cost) {
     cout << "Total (including tax): $" << total << endl;
     cout << "Enter your cost: $";
     cin >> cost;
-    float refund = cost - total;
-    return refund;
+     if (cost>= total){
+        float refund = cost - total;
+
+        return refund;
+    }
+    else {
+        cout << "We are sorry.Your balance is insufficient!\n"
+                "---------- Try again please!!! -----------" << endl;
+        cout << "Enter your cost: $";
+        cin >> cost;
+        float refund = cost - total;
+
+        return refund;
+    }
 }
 
 int main() {
